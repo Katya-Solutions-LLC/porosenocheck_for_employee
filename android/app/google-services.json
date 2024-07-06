@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588768230555",
+    "project_id": "porosenocheck-for-employee",
+    "storage_bucket": "porosenocheck-for-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588768230555:android:3c63cf3f2a57a7708cda3e",
+        "android_client_info": {
+          "package_name": "com.porosenocheck.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgPPS5TaQw4kLyTgbY7wb6Y3lYdLAjEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
