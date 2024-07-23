@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../model/city_list_response.dart';
 import '../add_logistic_zone_controller.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/home/components/employee_report_shimmer.dart';
-import 'package:porosenocheck_employee/screens/home/components/greetings_component_shimmer.dart';
+import 'package:porosenocheckemployee/screens/home/components/employee_report_shimmer.dart';
+import 'package:porosenocheckemployee/screens/home/components/greetings_component_shimmer.dart';
 
 class HomeScreenShimmer extends StatelessWidget {
   const HomeScreenShimmer({Key? key}) : super(key: key);

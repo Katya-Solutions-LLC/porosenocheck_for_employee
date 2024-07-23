@@ -3,9 +3,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/screens/auth/model/login_response.dart';
-import 'package:porosenocheck_employee/screens/auth/services/auth_services.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/screens/auth/model/login_response.dart';
+import 'package:porosenocheckemployee/screens/auth/services/auth_services.dart';
 
 import '../../../utils/app_common.dart';
 import '../../../utils/common_base.dart';

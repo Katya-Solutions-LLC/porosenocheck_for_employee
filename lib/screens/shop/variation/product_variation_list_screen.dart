@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/screens/shop/variation/product_variation_list_controller.dart';
-import 'package:porosenocheck_employee/screens/shop/variation/services/variation_api.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/screens/shop/variation/product_variation_list_controller.dart';
+import 'package:porosenocheckemployee/screens/shop/variation/services/variation_api.dart';
 
 import '../../../components/bottom_selection_widget.dart';
 import '../../../components/loader_widget.dart';

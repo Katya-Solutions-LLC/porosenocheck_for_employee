@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../model/unit_tag_list_response.dart';
 import '../services/unit_tag_api.dart';

@@ -2,7 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/sign_in_sign_up/signin_screen.dart';
+import 'package:porosenocheckemployee/screens/auth/sign_in_sign_up/signin_screen.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../../../components/app_logo_widget.dart';

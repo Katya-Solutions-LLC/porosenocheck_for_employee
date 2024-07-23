@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/price_widget.dart';
+import 'package:porosenocheckemployee/components/price_widget.dart';
 
 import '../utils/app_common.dart';
 import '../utils/colors.dart';

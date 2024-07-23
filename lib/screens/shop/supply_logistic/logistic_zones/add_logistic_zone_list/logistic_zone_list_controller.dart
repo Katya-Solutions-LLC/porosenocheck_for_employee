@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../model/logistic_zone_list_response.dart';
 import '../services/logistics_zone_api.dart';

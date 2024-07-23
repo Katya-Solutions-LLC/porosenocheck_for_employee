@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
 
 import '../../../../../utils/colors.dart';
 import '../services/logistic_api.dart';

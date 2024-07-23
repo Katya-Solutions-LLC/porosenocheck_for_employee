@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/price_widget.dart';
-import 'package:porosenocheck_employee/utils/colors.dart';
+import 'package:porosenocheckemployee/components/price_widget.dart';
+import 'package:porosenocheckemployee/utils/colors.dart';
 
 import '../../components/cached_image_widget.dart';
 import '../../generated/assets.dart';

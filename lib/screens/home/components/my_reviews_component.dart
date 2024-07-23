@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/home/home_controller.dart';
+import 'package:porosenocheckemployee/screens/home/home_controller.dart';
 
 import '../../../main.dart';
 import '../../../utils/common_base.dart';

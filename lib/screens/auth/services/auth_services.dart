@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:get/get.dart' hide MultipartFile;
 import 'package:http/http.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/model/employee_model.dart';
-import 'package:porosenocheck_employee/utils/push_notification_service.dart';
+import 'package:porosenocheckemployee/screens/auth/model/employee_model.dart';
+import 'package:porosenocheckemployee/utils/push_notification_service.dart';
 
 import '../../../models/base_response_model.dart';
 import '../../../models/register_user_res_model.dart';

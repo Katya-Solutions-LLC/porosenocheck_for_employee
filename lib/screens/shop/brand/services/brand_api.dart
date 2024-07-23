@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/brand/model/brand_list_response.dart';
+import 'package:porosenocheckemployee/screens/shop/brand/model/brand_list_response.dart';
 
 import '../../../../main.dart';
 import '../../../../models/base_response_model.dart';

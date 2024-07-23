@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/pet_store/pet_store_dashboard_screen.dart';
-import 'package:porosenocheck_employee/screens/shop/orders/order_list/orders_controller.dart';
+import 'package:porosenocheckemployee/screens/pet_store/pet_store_dashboard_screen.dart';
+import 'package:porosenocheckemployee/screens/shop/orders/order_list/orders_controller.dart';
 import '../screens/auth/model/app_configuration_res.dart';
 import '../screens/auth/model/login_response.dart';
 import 'auth/sign_in_sign_up/signin_screen.dart';

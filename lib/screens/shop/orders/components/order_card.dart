@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/orders/order_list/orders_controller.dart';
+import 'package:porosenocheckemployee/screens/shop/orders/order_list/orders_controller.dart';
 
 import '../../../../components/cached_image_widget.dart';
 import '../../../../components/price_widget.dart';

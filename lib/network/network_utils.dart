@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/sign_in_sign_up/signin_screen.dart';
+import 'package:porosenocheckemployee/screens/auth/sign_in_sign_up/signin_screen.dart';
 
 import '../configs.dart';
 import '../main.dart';

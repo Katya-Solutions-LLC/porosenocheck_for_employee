@@ -3,7 +3,7 @@
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/main.dart';
 
 import '../utils/constants.dart';
 

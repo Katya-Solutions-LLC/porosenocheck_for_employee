@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../../../../main.dart';
 import '../../model/order_detail_model.dart';

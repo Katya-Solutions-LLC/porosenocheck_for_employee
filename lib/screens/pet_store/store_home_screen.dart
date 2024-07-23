@@ -4,8 +4,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/screens/pet_store/store_home_controller.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/screens/pet_store/store_home_controller.dart';
 
 import '../../../generated/assets.dart';
 import '../../../main.dart';

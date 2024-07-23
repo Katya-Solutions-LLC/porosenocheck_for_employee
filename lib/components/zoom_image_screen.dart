@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/main.dart';
 import 'package:photo_view/photo_view.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/circle_widget.dart';
-import 'package:porosenocheck_employee/components/shimmer_widget.dart';
-import 'package:porosenocheck_employee/utils/colors.dart';
+import 'package:porosenocheckemployee/components/circle_widget.dart';
+import 'package:porosenocheckemployee/components/shimmer_widget.dart';
+import 'package:porosenocheckemployee/utils/colors.dart';
 
 class GreetingsComponentShimmer extends StatelessWidget {
   const GreetingsComponentShimmer({Key? key}) : super(key: key);

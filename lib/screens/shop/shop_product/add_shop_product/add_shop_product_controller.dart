@@ -6,9 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/colors.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/colors.dart';
 
 import '../../../../utils/common_base.dart';
 import '../../../../utils/constants.dart';

@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
 
 class ProductDetailResponse {
   ProductItemDataResponse data;

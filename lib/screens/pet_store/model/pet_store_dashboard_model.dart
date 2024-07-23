@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../shop/orders/model/order_detail_model.dart';
 import '../../shop/variation/model/variation_list_response.dart';

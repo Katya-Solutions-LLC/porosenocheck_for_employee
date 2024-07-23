@@ -3,9 +3,9 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/shop_product_list/services/shop_product_api.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/shop_product_list/services/shop_product_api.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 import 'package:stream_transform/stream_transform.dart';
 
 import '../product_detail/model/product_item_data_response.dart';

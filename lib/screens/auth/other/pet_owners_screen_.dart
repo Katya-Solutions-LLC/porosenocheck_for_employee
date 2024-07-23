@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/other/pet_owners_screen_controller.dart';
+import 'package:porosenocheckemployee/screens/auth/other/pet_owners_screen_controller.dart';
 import '../../../components/app_scaffold.dart';
 import '../../../components/cached_image_widget.dart';
 import '../../../components/flutter_image_stack_widget.dart';

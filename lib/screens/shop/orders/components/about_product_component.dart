@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/cached_image_widget.dart';
-import 'package:porosenocheck_employee/components/price_widget.dart';
+import 'package:porosenocheckemployee/components/cached_image_widget.dart';
+import 'package:porosenocheckemployee/components/price_widget.dart';
 
 import '../../../../main.dart';
 import '../../../../utils/common_base.dart';

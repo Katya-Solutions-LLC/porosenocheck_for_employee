@@ -3,11 +3,11 @@ import 'package:get/get_instance/src/extension_instance.dart';
 import 'package:get/get_state_manager/src/rx_flutter/rx_obx_widget.dart';
 import 'package:get/route_manager.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/components/loader_widget.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/screens/shop/orders/order_detail/order_detail_controller.dart';
-import 'package:porosenocheck_employee/utils/empty_error_state_widget.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/components/loader_widget.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/screens/shop/orders/order_detail/order_detail_controller.dart';
+import 'package:porosenocheckemployee/utils/empty_error_state_widget.dart';
 
 import '../../../../components/price_widget.dart';
 import '../../../../utils/colors.dart';

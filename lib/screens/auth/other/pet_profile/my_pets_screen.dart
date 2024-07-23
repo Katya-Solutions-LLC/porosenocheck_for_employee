@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/model/pet_owners_res.dart';
+import 'package:porosenocheckemployee/screens/auth/model/pet_owners_res.dart';
 
 import '../../../../components/app_scaffold.dart';
 import '../../../../main.dart';

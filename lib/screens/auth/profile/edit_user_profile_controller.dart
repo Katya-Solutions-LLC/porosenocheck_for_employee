@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/permissions.dart';
+import 'package:porosenocheckemployee/utils/permissions.dart';
 
 import '../../../main.dart';
 import '../../../utils/app_common.dart';

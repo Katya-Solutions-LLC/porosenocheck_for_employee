@@ -3,8 +3,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/auth/sign_in_sign_up/signin_screen.dart';
-import 'package:porosenocheck_employee/screens/home/model/about_page_res.dart';
+import 'package:porosenocheckemployee/screens/auth/sign_in_sign_up/signin_screen.dart';
+import 'package:porosenocheckemployee/screens/home/model/about_page_res.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../../../configs.dart';

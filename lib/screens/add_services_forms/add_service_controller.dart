@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/add_services_forms/service_api.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/screens/add_services_forms/service_api.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 
 import '../../main.dart';
 import '../../utils/colors.dart';

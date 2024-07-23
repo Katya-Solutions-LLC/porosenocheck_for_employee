@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/screens/add_services_forms/add_service_form.dart';
-import 'package:porosenocheck_employee/screens/add_services_forms/service_api.dart';
-import 'package:porosenocheck_employee/screens/add_services_forms/service_detail_screen.dart';
-import 'package:porosenocheck_employee/screens/add_services_forms/service_list_controller.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/screens/add_services_forms/add_service_form.dart';
+import 'package:porosenocheckemployee/screens/add_services_forms/service_api.dart';
+import 'package:porosenocheckemployee/screens/add_services_forms/service_detail_screen.dart';
+import 'package:porosenocheckemployee/screens/add_services_forms/service_list_controller.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../components/bottom_selection_widget.dart';
 import '../../components/cached_image_widget.dart';

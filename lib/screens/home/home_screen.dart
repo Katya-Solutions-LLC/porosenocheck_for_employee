@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
 
 import '../../components/loader_widget.dart';
 import '../../main.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/price_widget.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
-import 'package:porosenocheck_employee/utils/colors.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/components/price_widget.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
+import 'package:porosenocheckemployee/utils/colors.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../../../../main.dart';
 import '../../../../../utils/constants.dart';

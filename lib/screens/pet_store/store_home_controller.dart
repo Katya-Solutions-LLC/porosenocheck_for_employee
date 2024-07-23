@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 
 import '../shop/orders/services/order_service_api.dart';
 

@@ -2,7 +2,7 @@
 
 import 'package:country_picker/country_picker.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 
 import '../generated/assets.dart';
 import '../screens/auth/model/demo_login_data_model.dart';

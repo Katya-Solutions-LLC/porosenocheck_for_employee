@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/pet_store/pet_store_dashboard_controller.dart';
-import 'package:porosenocheck_employee/screens/pet_store/store_home_controller.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/screens/pet_store/pet_store_dashboard_controller.dart';
+import 'package:porosenocheckemployee/screens/pet_store/store_home_controller.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../../../components/app_scaffold.dart';
 import '../../../../generated/assets.dart';

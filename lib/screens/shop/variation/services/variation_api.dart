@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/network/network_utils.dart';
-import 'package:porosenocheck_employee/utils/api_end_points.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/network/network_utils.dart';
+import 'package:porosenocheckemployee/utils/api_end_points.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../../../../models/base_response_model.dart';
 import '../../shop_product/model/variation_combination_model.dart';

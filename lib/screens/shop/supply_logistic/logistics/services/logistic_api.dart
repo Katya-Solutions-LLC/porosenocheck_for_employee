@@ -4,11 +4,11 @@ import 'dart:io';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/models/base_response_model.dart';
-import 'package:porosenocheck_employee/network/network_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
-import 'package:porosenocheck_employee/utils/api_end_points.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/models/base_response_model.dart';
+import 'package:porosenocheckemployee/network/network_utils.dart';
+import 'package:porosenocheckemployee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
+import 'package:porosenocheckemployee/utils/api_end_points.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../../../../../main.dart';
 

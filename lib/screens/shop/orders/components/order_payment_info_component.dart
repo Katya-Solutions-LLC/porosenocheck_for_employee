@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import '../../../../components/price_widget.dart';
 import '../model/order_detail_model.dart';

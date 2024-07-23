@@ -1,6 +1,6 @@
 // ignore_for_file: depend_on_referenced_packages
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/screens/auth/model/pet_owners_res.dart';
+import 'package:porosenocheckemployee/screens/auth/model/pet_owners_res.dart';
 import '../services/auth_services.dart';
 
 class PetOwnersController extends GetxController {

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/screens/shop/supply_logistic/logistics/model/logistic_list_response.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../../../../../main.dart';
 import '../../logistics/services/logistic_api.dart';

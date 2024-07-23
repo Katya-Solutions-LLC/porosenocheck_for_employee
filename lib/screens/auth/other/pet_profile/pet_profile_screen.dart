@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 import '../../../../components/app_scaffold.dart';
 import '../../../../components/cached_image_widget.dart';
 import '../../../../components/common_profile_widget.dart';

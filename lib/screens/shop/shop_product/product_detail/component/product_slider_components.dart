@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/cached_image_widget.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/product_detail/product_detail_controller.dart';
+import 'package:porosenocheckemployee/components/cached_image_widget.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/product_detail/product_detail_controller.dart';
 
 class ProductSlider extends StatelessWidget {
   final List<String> productGalleryData;

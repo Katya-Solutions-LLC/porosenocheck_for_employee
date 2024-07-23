@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/main.dart';
 
 import '../generated/assets.dart';
 import '../utils/colors.dart';

@@ -2,7 +2,7 @@ import 'package:get/get.dart';
 
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/main.dart';
 
 import '../../../components/app_scaffold.dart';
 import '../../../generated/assets.dart';

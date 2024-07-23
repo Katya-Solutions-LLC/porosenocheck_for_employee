@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/models/review_data.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/models/review_data.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 import '../../../models/base_response_model.dart';
 import '../model/booking_model.dart';
 import '../../../network/network_utils.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/configs.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/screens/auth/password/forget_password_screen.dart';
-import 'package:porosenocheck_employee/screens/auth/sign_in_sign_up/sign_in_controller.dart';
+import 'package:porosenocheckemployee/configs.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/screens/auth/password/forget_password_screen.dart';
+import 'package:porosenocheckemployee/screens/auth/sign_in_sign_up/sign_in_controller.dart';
 
 import '../../../components/app_logo_widget.dart';
 import '../../../components/app_scaffold.dart';

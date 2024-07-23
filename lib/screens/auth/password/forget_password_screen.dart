@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/main.dart';
 import '../../../components/app_scaffold.dart';
 import '../../../components/loader_widget.dart';
 import '../../../generated/assets.dart';

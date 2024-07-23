@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/product_detail/model/product_detail_response.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/product_detail/model/product_detail_response.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/product_detail/model/product_item_data_response.dart';
 
 import '../../variation/model/variation_list_response.dart';
 import '../shop_product_list/services/shop_product_api.dart';

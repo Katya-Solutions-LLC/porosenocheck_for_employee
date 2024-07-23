@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_primary_widget.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/components/cached_image_widget.dart';
-import 'package:porosenocheck_employee/components/loader_widget.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/colors.dart';
-import 'package:porosenocheck_employee/utils/common_base.dart';
+import 'package:porosenocheckemployee/components/app_primary_widget.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/components/cached_image_widget.dart';
+import 'package:porosenocheckemployee/components/loader_widget.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/colors.dart';
+import 'package:porosenocheckemployee/utils/common_base.dart';
 
 import 'add_logistic_controller.dart';
 

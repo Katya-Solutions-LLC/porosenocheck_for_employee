@@ -1,4 +1,4 @@
-import 'package:porosenocheck_employee/screens/shop/orders/model/order_detail_model.dart';
+import 'package:porosenocheckemployee/screens/shop/orders/model/order_detail_model.dart';
 
 class OrderListModel {
   bool status;

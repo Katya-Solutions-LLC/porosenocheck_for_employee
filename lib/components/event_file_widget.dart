@@ -4,7 +4,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
+import 'package:porosenocheckemployee/main.dart';
 
 import '../utils/colors.dart';
 import 'app_primary_widget.dart';

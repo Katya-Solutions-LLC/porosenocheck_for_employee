@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/models/base_response_model.dart';
-import 'package:porosenocheck_employee/network/network_utils.dart';
-import 'package:porosenocheck_employee/utils/api_end_points.dart';
-import 'package:porosenocheck_employee/utils/constants.dart';
+import 'package:porosenocheckemployee/models/base_response_model.dart';
+import 'package:porosenocheckemployee/network/network_utils.dart';
+import 'package:porosenocheckemployee/utils/api_end_points.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 
 import '../model/city_list_response.dart';
 import '../model/country_list_response.dart';

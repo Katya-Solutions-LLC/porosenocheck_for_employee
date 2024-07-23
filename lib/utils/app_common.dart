@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:porosenocheck_employee/screens/auth/model/app_configuration_res.dart';
+import 'package:porosenocheckemployee/screens/auth/model/app_configuration_res.dart';
 
 import '../configs.dart';
 import '../screens/auth/model/login_response.dart';

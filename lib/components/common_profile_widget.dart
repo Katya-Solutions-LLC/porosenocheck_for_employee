@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 
 import '../generated/assets.dart';
 import '../utils/colors.dart';

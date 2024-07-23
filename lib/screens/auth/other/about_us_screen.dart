@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/main.dart';
-import 'package:porosenocheck_employee/utils/app_common.dart';
+import 'package:porosenocheckemployee/main.dart';
+import 'package:porosenocheckemployee/utils/app_common.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../../components/app_scaffold.dart';
 import '../../../utils/common_base.dart';

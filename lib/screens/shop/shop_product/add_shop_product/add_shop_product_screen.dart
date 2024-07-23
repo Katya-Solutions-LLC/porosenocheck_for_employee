@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/components/app_scaffold.dart';
-import 'package:porosenocheck_employee/screens/shop/shop_product/add_shop_product/add_shop_product_controller.dart';
+import 'package:porosenocheckemployee/components/app_scaffold.dart';
+import 'package:porosenocheckemployee/screens/shop/shop_product/add_shop_product/add_shop_product_controller.dart';
 
 import '../../../../components/app_primary_widget.dart';
 import '../../../../components/bottom_selection_widget.dart';

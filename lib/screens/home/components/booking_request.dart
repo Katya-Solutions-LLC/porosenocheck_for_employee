@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:porosenocheck_employee/screens/booking_module/booking_list/bookings_controller.dart';
-import 'package:porosenocheck_employee/screens/home/home_controller.dart';
+import 'package:porosenocheckemployee/screens/booking_module/booking_list/bookings_controller.dart';
+import 'package:porosenocheckemployee/screens/home/home_controller.dart';
 
 import '../../../main.dart';
 import '../../../utils/view_all_label_component.dart';

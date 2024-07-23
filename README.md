@@ -40,7 +40,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/gmits_mobile/porosenocheck_employee_app/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/gmits_mobile/porosenocheckemployee_app/-/settings/integrations)
 
 ## Collaborate with your team
 
