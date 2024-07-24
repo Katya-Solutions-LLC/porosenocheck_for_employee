@@ -9,7 +9,7 @@ import 'package:get_storage/get_storage.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:porosenocheckemployee/locale/language_en.dart';
-import 'package:utils/constants.dart';
+import 'package:porosenocheckemployee/utils/constants.dart';
 import 'app_theme.dart';
 import 'configs.dart';
 import 'locale/app_localizations.dart';
