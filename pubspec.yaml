@@ -37,7 +37,7 @@ dependencies:
   get: ^4.6.6
 
   # Payment
-  flutter_stripe: ^10.1.1
+  flutter_stripe: ^11.0.0
 
   #Storage
   get_storage: ^2.1.1
