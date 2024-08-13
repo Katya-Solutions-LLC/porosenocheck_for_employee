@@ -44,7 +44,7 @@ android {
         applicationId "com.porosenocheck.employee"
         minSdkVersion 23
         targetSdkVersion 34
-        versionCode 19
+        versionCode 20
         versionName "2.0.0"
     }
 
