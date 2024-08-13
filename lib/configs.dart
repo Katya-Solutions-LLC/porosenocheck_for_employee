@@ -7,7 +7,7 @@ const APP_NAME = 'Porosenocheck For Employee';
 const DEFAULT_LANGUAGE = 'en';
 
 ///Live Url
-const DOMAIN_URL = "https://katya.site";
+const DOMAIN_URL = "https://apps.iqonic.design/pawlly";
 
 
 const BASE_URL = '$DOMAIN_URL/api/';
