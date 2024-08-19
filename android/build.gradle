@@ -2,6 +2,16 @@ allprojects {
     repositories {
         google()
         mavenCentral()
+        maven {url 'https://developer.huawei.com/repo/'}
+    }
+}
+
+buildscript{
+    repositories {
+        maven { url 'https://developer.huawei.com/repo/' }
+    }
+    dependencies {
+        classpath 'com.huawei.agconnect:agcp:1.5.2.300'
     }
 }
 
