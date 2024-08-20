@@ -23,7 +23,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.porosenocheck.employee"
+    namespace "com.porosenocheck.employeefor"
     compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
