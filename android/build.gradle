@@ -4,16 +4,6 @@ allprojects {
         mavenCentral ()
     }
 }
-
-buildscript{
-    repositories {
-        maven { url 'https://developer.huawei.com/repo/' }
-    }
-    dependencies {
-        classpath 'com.huawei.agconnect:agcp:1.5.2.300'
-    }
-}
-
 rootProject.buildDir = '../build'
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"
