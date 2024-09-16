@@ -52,7 +52,7 @@ dependencies:
 
   # MAP
   google_maps_flutter: ^2.7.0
-  geolocator: ^12.0.0
+  geolocator: ^13.0.1
   geocoding: ^3.0.0
 
   #PhotoViewGallery
