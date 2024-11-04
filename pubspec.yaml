@@ -15,7 +15,7 @@ dependencies:
   firebase_auth: ^5.1.0
   firebase_crashlytics: ^4.0.1
   firebase_messaging: ^15.0.1
-  flutter_local_notifications: ^17.1.2
+  flutter_local_notifications: ^18.0.0
 
   nb_utils: ^7.0.3
   google_fonts: ^6.2.1
