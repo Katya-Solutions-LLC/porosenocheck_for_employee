@@ -4,6 +4,10 @@ Hello Team!
 
 We are excited to introduce you to **Porosenochek**, the ultimate platform that is set to revolutionize pet care. With a focus on convenience, customization, and compassion, we are here to provide a seamless and exceptional experience for pet owners and their beloved companions. As part of the Porosenochek family, you play a crucial role in making this vision a reality. Let’s dive into what makes Porosenochek the go-to app for pet care.
 
+https://api.codemagic.io/apps/6769611c499f857607d13857/6769611c499f857607d13856/status_badge.svg
+
+[![Codemagic build status](https://api.codemagic.io/apps/6769611c499f857607d13857/6769611c499f857607d13856/status_badge.svg)](https://codemagic.io/app/6769611c499f857607d13857/6769611c499f857607d13856/latest_build)
+
 ---
 
 ## 🚀 Key Features: Elevating Pet Care to New Heights
@@ -113,11 +117,11 @@ If you have run out of energy or time for your project, put a note at the top of
 Encourage everyone you know to download Porosenochek and join our community of pet lovers. We are dedicated to providing quality care and convenience. Whether they own a dog, cat, or any other pet, Porosenochek has something for everyone.
 
 ## 📧 Need Assistance? We’re Here to Help
-For any build instructions or support, please contact us at support@rechain.email. Our team is here to help you with any questions or issues you might encounter.
+For any build instructions or support, please contact us at support@rechain.network. Our team is here to help you with any questions or issues you might encounter.
 
 
 ## Feel free to use this Markdown content for your documentation, README, or any other purpose where you need to present information in a structured and appealing way. The Markdown format ensures that the text is easily readable and can be converted into various formats like HTML or PDF.
 
-## *** Please, send US an E-Mail to support@rechain.email for the build instructions! 👻
+## *** Please, send US an E-Mail to support@rechain.network for the build instructions! 👻
 
-## Need help? 🤔 Email us! 👇 A Dmitry Sorokin production. All rights reserved. Powered by REChain ®️ 🪐 Copyright © 2019-2024 REChain, Inc REChain ® is a registered trademark hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email music@rechain.email cfa@rechain.email anti@rechain.email mot_cfa@rechain.email rechainstore@rechain.email models@rechain.email dex@rechain.email email@rechain.email musicdapp@rechain.email pitomec@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌 Our Stats! 👀 At the end of 2023, the number of downloads from the Open-Source Places, Apple AppStore, Google Play Market, and the REChain.Store ✨ exceeded 29 million downloads. 😈 👀
+## Copyright © 2019-2024 Need help? 🤔 Donate US! ⌛️ For tea, coffee! For the future of decentralized and distributed internet. We do cool and, in my opinion, useful things for the safety and security of users' personal data. And on a completely non-commercial basis! 😎 Email us! 👇 A Dmitry Sorokin production. All rights reserved. Powered by REChain ®️. 🪐 Copyright © 2019-2024 REChain, Inc REChain ® is a registered trademark support@rechain.network Please allow anywhere from 1 to 5 business days for E-mail responses! 💌 Our Stats! 👀 At the end of 2023, the number of downloads from the Open-Source Places, Apple AppStore, Google Play Market, and the REChain.Store, namely the Domestic application store from the REChain ®️ brand 🪐, а именно Отечественный магазин приложений от бренда REChain ®️ 🪐 ✨ exceeded 29 million downloads. 😈 👀
