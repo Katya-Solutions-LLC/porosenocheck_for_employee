@@ -809,10 +809,10 @@ packages:
     dependency: "direct main"
     description:
       name: nb_utils
-      sha256: fe84bb0f4ce346ff198e2786bd1ff89b5f09ed83dba18568558a530affdc29a5
+      sha256: d49dd98a2a1be68a5abdb045d81345e0fad45088d30b69d71df5c5c0e676a07c
       url: "https://pub.dev"
     source: hosted
-    version: "7.0.7"
+    version: "7.1.4"
   nm:
     dependency: transitive
     description:
