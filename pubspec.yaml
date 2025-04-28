@@ -45,7 +45,7 @@ dependencies:
   #intent
   android_intent_plus: ^5.0.2
 
-  datepicker_dropdown: ^0.1.1+1
+  datepicker_dropdown: ^0.1.7
   file_picker: ^10.1.2
   image_picker: ^1.1.2
   country_picker: ^2.0.26
