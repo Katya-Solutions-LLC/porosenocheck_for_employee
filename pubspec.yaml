@@ -30,7 +30,7 @@ dependencies:
 
   # SOCIAL LOGIN
   the_apple_sign_in: ^1.1.1
-  google_sign_in: ^6.2.1
+  google_sign_in: ^6.3.0
   permission_handler: ^11.3.1
 
   # State Management
