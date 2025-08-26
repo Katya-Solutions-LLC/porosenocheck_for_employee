@@ -24,7 +24,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace "com.porosenocheck.employeefor"
-    compileSdkVersion 34
+    compileSdkVersion 35
     ndkVersion flutter.ndkVersion
 
     compileOptions {
@@ -43,7 +43,7 @@ android {
     defaultConfig {
         applicationId "com.porosenocheck.employeefor"
         minSdkVersion 23
-        targetSdkVersion 34
+        targetSdkVersion 35
         versionCode 21
         versionName "2.0.0"
     }
