@@ -1,7 +1,7 @@
 name: porosenocheckemployee
 description: We are excited to introduce you to Porosenochek, the ultimate platform that is set to revolutionize pet care. With a focus on convenience, customization, and compassion, we are here to provide a seamless and exceptional experience for pet owners and their beloved companions. As part of the Porosenochek family, you play a crucial role in making this vision a reality. Let’s dive into what makes Porosenochek the go-to app for pet care.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-version: 2.0.1+21
+version: 2.0.3+24
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -21,7 +21,7 @@ dependencies:
   google_fonts: ^6.2.1
   html: ^0.15.6
   http: ^1.4.0
-  intl: ^0.19.0
+  intl: ^0.20.2
   cached_network_image: ^3.3.1
   url_launcher: ^6.3.0
   share_plus: ^11.0.0

@@ -196,9 +196,6 @@ class PushNotificationService {
       requestSoundPermission: false,
       requestBadgePermission: false,
       requestAlertPermission: false,
-      onDidReceiveLocalNotification: (id, title, body, payload) {
-        handleNotificationClick(remoteMessage, isForeGround: true);
-      },
     );
     var macOS = iOS;
 
