@@ -43,7 +43,7 @@ dependencies:
   get_storage: ^2.1.1
 
   #intent
-  android_intent_plus: ^5.0.2
+  android_intent_plus: ^6.0.0
 
   datepicker_dropdown: ^1.0.1
   file_picker: ^10.1.9
