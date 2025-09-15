@@ -15,7 +15,7 @@ dependencies:
   firebase_auth: ^6.0.1
   firebase_crashlytics: ^5.0.0
   firebase_messaging: ^16.0.0
-  flutter_local_notifications: ^19.2.1
+  flutter_local_notifications: ^19.4.2
 
   nb_utils: ^7.1.8
   google_fonts: ^6.2.1
@@ -24,7 +24,7 @@ dependencies:
   intl: ^0.20.2
   cached_network_image: ^3.3.1
   url_launcher: ^6.3.0
-  share_plus: ^11.0.0
+  share_plus: ^12.0.0
   stream_transform: ^2.1.0
   custom_date_range_picker: ^1.1.0
 
@@ -43,7 +43,7 @@ dependencies:
   get_storage: ^2.1.1
 
   #intent
-  android_intent_plus: ^5.0.2
+  android_intent_plus: ^6.0.0
 
   datepicker_dropdown: ^1.0.1
   file_picker: ^10.3.3
@@ -63,7 +63,7 @@ dependencies:
 
   flutter_localizations:
     sdk: flutter
-  lottie: ^3.3.1
+  lottie: ^3.3.2
 
 dev_dependencies:
   flutter_test:
