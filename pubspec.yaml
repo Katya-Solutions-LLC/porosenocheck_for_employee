@@ -11,14 +11,14 @@ dependencies:
     sdk: flutter
 
   #firebase
-  firebase_core: ^4.0.0
+  firebase_core: ^4.1.1
   firebase_auth: ^6.0.1
   firebase_crashlytics: ^5.0.0
   firebase_messaging: ^16.0.2
   flutter_local_notifications: ^19.4.2
 
   nb_utils: ^7.1.8
-  google_fonts: ^6.2.1
+  google_fonts: ^6.3.2
   html: ^0.15.6
   http: ^1.4.0
   intl: ^0.20.2
