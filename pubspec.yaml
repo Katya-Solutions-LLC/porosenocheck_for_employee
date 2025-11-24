@@ -47,7 +47,7 @@ dependencies:
 
   datepicker_dropdown: ^1.0.1
   file_picker: ^10.3.3
-  image_picker: ^1.1.2
+  image_picker: ^1.2.1
   country_picker: ^2.0.26
 
   # MAP
