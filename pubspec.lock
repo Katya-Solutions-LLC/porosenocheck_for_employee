@@ -399,10 +399,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_stripe
-      sha256: "4a4e5524ec047a27e415f8efc7ea15d8182f586e295b804287000d9dab1ebfdc"
+      sha256: a5cbf9416ed20aa27633d106082f6711f3b1cc13f33aa72870531fb522db3fbe
       url: "https://pub.dev"
     source: hosted
-    version: "12.1.0"
+    version: "12.1.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -793,10 +793,10 @@ packages:
     dependency: transitive
     description:
       name: meta
-      sha256: e3641ec5d63ebf0d9b41bd43201a66e3fc79a65db5f61fc181f04cd27aab950c
+      sha256: "23f08335362185a5ea2ad3a4e597f1375e78bce8a040df5c600c8d3552ef2394"
       url: "https://pub.dev"
     source: hosted
-    version: "1.16.0"
+    version: "1.17.0"
   mime:
     dependency: transitive
     description:
@@ -1182,10 +1182,10 @@ packages:
     dependency: transitive
     description:
       name: stripe_platform_interface
-      sha256: "1661f45a7fca7444f27ac9b85db98ba6cc2169e6999143e0364d9d93bc51d0ff"
+      sha256: "1766fa3a52a4c2fee7fa293b14655e07517d743be3f045aa3a28f8cb49629e70"
       url: "https://pub.dev"
     source: hosted
-    version: "12.1.0"
+    version: "12.1.1"
   synchronized:
     dependency: transitive
     description:
@@ -1206,10 +1206,10 @@ packages:
     dependency: transitive
     description:
       name: test_api
-      sha256: "522f00f556e73044315fa4585ec3270f1808a4b186c936e612cab0b565ff1e00"
+      sha256: ab2726c1a94d3176a45960b6234466ec367179b87dd74f1611adb1f3b5fb9d55
       url: "https://pub.dev"
     source: hosted
-    version: "0.7.6"
+    version: "0.7.7"
   the_apple_sign_in:
     dependency: "direct main"
     description:
