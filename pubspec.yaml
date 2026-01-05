@@ -17,7 +17,7 @@ dependencies:
   firebase_messaging: ^16.0.3
   flutter_local_notifications: ^19.5.0
 
-  nb_utils: ^7.1.8
+  nb_utils: ^7.2.0
   google_fonts: ^6.3.3
   html: ^0.15.6
   http: ^1.6.0
