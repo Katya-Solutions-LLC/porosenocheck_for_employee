@@ -51,7 +51,7 @@ dependencies:
   country_picker: ^2.0.26
 
   # MAP
-  google_maps_flutter: ^2.14.0
+  google_maps_flutter: ^2.14.2
   geolocator: ^13.0.1
   geocoding: ^4.0.0
 
