@@ -1,6 +1,6 @@
 # Privacy Policy for PorosenoCheck Employee App
 
-Last updated: February 19, 2026
+Last updated: February 21, 2026
 
 ## Introduction
 
@@ -33,6 +33,10 @@ We use your information to:
 - Communicate with you about work matters
 - Improve our services
 - Ensure security and prevent fraud
+
+## Child Safety
+
+We are committed to protecting children from exploitation and abuse. Our App is intended for use by adults (18 years and older) who are employed by pet care service providers. We strictly prohibit any form of child sexual abuse and exploitation (CSAE). For more information, please see our Child Safety Policy at: https://github.com/Katya-Solutions-LLC/porosenocheck_for_employee/blob/main/ChildSafetyPolicy.md
 
 ## Data Sharing
 

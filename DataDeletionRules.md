@@ -3,6 +3,9 @@
 ## Overview
 This document outlines the rules and procedures for data deletion requests in the PorosenoCheck Employee App, as required by Google Play Store policies.
 
+## Child Safety Compliance
+This app complies with child safety standards. For more information, see our [Child Safety Policy](ChildSafetyPolicy.md).
+
 ## Rule 1: Data Deletion Request Process
 
 ### Error Resolution
@@ -19,6 +22,7 @@ This document outlines the rules and procedures for data deletion requests in th
 1. Include a "Delete Data" option in the app settings
 2. Provide clear instructions for the data deletion request process
 3. Ensure the link opens the correct deletion request page in a web browser
+4. Include access to child safety reporting mechanisms
 
 ## Rule 2: Data Deletion Request Functionality
 
@@ -42,3 +46,4 @@ This document outlines the rules and procedures for data deletion requests in th
 2. Provide clear information about the data deletion process in the privacy policy
 3. Allow users to understand what data will be retained and why
 4. Ensure the deletion process is properly documented and auditable
+5. Maintain child safety reporting mechanisms as required by Google Play Store policies

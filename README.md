@@ -119,9 +119,10 @@ Encourage everyone you know to download Porosenochek and join our community of p
 ## 📧 Need Assistance? We’re Here to Help
 For any build instructions or support, please contact us at support@rechain.network. Our team is here to help you with any questions or issues you might encounter.
 
+## Child Safety
+We are committed to protecting children from exploitation and abuse. Our app strictly prohibits any form of child sexual abuse and exploitation (CSAE). For more information about our child safety policies and reporting mechanisms, please see our [Child Safety Policy](ChildSafetyPolicy.md).
 
-## Feel free to use this Markdown content for your documentation, README, or any other purpose where you need to present information in a structured and appealing way. The Markdown format ensures that the text is easily readable and can be converted into various formats like HTML or PDF.
-
-## *** Please, send US an E-Mail to support@rechain.network for the build instructions! 👻
+## User Feedback
+We value user feedback and provide in-app mechanisms for users to report concerns, including child safety concerns. Users can access feedback options through the app's settings menu.
 
 ## Copyright © 2019-2025 Need help? 🤔 Donate US! ⌛️ For tea, coffee! For the future of decentralized and distributed internet. We do cool and, in my opinion, useful things for the safety and security of users' personal data. And on a completely non-commercial basis! 😎 Email us! 👇 A Dmitry Sorokin production. All rights reserved. Powered by REChain ®️. 🪐 Copyright © 2019-2025 REChain, Inc REChain ® is a registered trademark support@rechain.network Please allow anywhere from 1 to 5 business days for E-mail responses! 💌 Our Stats! 👀 At the end of 2023, the number of downloads from the Open-Source Places, Apple AppStore, Google Play Market, and the REChain.Store, namely the Domestic application store from the REChain ®️ brand 🪐, а именно Отечественный магазин приложений от бренда REChain ®️ 🪐 ✨ exceeded 29 million downloads. 😈 👀
